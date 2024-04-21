@@ -1,0 +1,1 @@
+UPDATE invests SET capital_back = 1 WHERE `capital_status` = 1 AND status = 0;
